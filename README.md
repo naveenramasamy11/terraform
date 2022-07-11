@@ -4,8 +4,8 @@ Terraforming AWS, GCP, AZURE, DO, Linode using Version 1.1.3..
 AWS
 
 IAM User: Ansicorp  	 
-export AWS_ACCESS_KEY_ID="KEY ID"
-export AWS_SECRET_ACCESS_KEY="ACCESS KEY"
+`export AWS_ACCESS_KEY_ID="KEY ID"
+export AWS_SECRET_ACCESS_KEY="ACCESS KEY"`
 
 Linode
 
